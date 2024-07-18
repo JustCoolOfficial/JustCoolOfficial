@@ -33,7 +33,7 @@ I'm JustCoolOfficial aka. mikel, a budding web developer passionate about crafti
 
 ## What I'm using for coding/webdevelopment?
 
-- **Webstorm by JetBrains:** My primary IDE for its powerful features and seamless integration with web development workflows.
+- **PhPStorm by JetBrains:** My primary IDE for its powerful features and seamless integration with web development workflows.
 - **Visual Studio Code:** Occasionally, I switch to VSCode for its lightweight yet extensible nature, especially for quick edits.
 - **GitLab:** You might notice not all my commits are visible here on GitHub; that's because I also leverage GitLab for version control and collaboration on certain projects.
 - **Google Chrome:** My go-to browser for testing and debugging web applications due to its extensive developer tools and widespread compatibility.
